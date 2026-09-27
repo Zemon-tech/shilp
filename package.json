@@ -1,0 +1,26 @@
+{
+  "name": "satori-social-skills",
+  "version": "0.1.0",
+  "description": "Agent-portable skill pack + Satori rendering runtime for static social media graphics.",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "render": "tsx scripts/render.ts",
+    "validate": "tsx scripts/validate.ts",
+    "install-skills": "tsx scripts/install-skills.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@resvg/resvg-js": "^2.6.2",
+    "archiver": "^7.0.1",
+    "react": "^18.3.1",
+    "satori": "^0.33.5"
+  },
+  "devDependencies": {
+    "@types/archiver": "^6.0.3",
+    "@types/node": "^22.7.4",
+    "@types/react": "^18.3.11",
+    "tsx": "^4.19.1",
+    "typescript": "^5.6.2"
+  }
+}

@@ -1,0 +1,373 @@
+{
+  "brand": {
+    "name": "Rise & Shine",
+    "short": "RAS",
+    "byline": "by KeilHQ",
+    "tagline": "The daily signal for people building what's next.",
+    "editorialPromise": "What's happening. Why it matters.",
+    "type": "Social Media Intelligence / Editorial Media Brand",
+    "relationship": "Independent editorial identity by KeilHQ",
+    "role": "Find → Filter → Explain → Distribute",
+    "formula": "Signal + Context + Relevance",
+    "coverage": [
+      "AI and emerging technology",
+      "Startups and business",
+      "Investments and funding",
+      "New products and companies",
+      "Founder intelligence",
+      "New opportunities",
+      "Indian technology ecosystem",
+      "Global developments relevant to Indian builders",
+      "Research, tools, reports, and ideas worth knowing",
+      "Important news that can affect founders and builders"
+    ],
+    "audience": [
+      "Startup founders",
+      "Student founders",
+      "Indie hackers",
+      "Developers building products",
+      "AI/ML builders",
+      "Early-stage investors",
+      "Technology professionals",
+      "Entrepreneurs and aspiring entrepreneurs",
+      "Followers of India's startup and technology ecosystem"
+    ],
+    "geography": "India-first; global developments covered when relevant to Indian builders",
+    "positioning": {
+      "is": [
+        "Curious",
+        "Sharp",
+        "Fast",
+        "Intelligent",
+        "Optimistic",
+        "Ambitious",
+        "Editorial",
+        "Builder-focused",
+        "India-first",
+        "Globally aware"
+      ],
+      "isNot": [
+        "A generic news aggregator",
+        "A corporate publication",
+        "A motivational page",
+        "A startup PR channel",
+        "An AI hype account",
+        "A traditional financial newspaper",
+        "A reposting account",
+        "A clickbait media page"
+      ]
+    },
+    "philosophy": {
+      "name": "Signal Over Noise",
+      "statement": "Someone already did the filtering for me.",
+      "questions": [
+        "What happened?",
+        "Why does it matter?",
+        "Who should care?",
+        "What should a builder understand from it?"
+      ]
+    },
+    "keilHQRelationship": {
+      "keilHQ": "Human Clarity — turns Context → Decisions → Work. A quiet room for thinking.",
+      "ras": "Information Clarity — turns Information → Signal → Understanding → Action. The morning signal that starts the day.",
+      "sharedDNA": [
+        "Warm material-inspired colours",
+        "Strong editorial typography",
+        "Generous whitespace",
+        "Restrained visual systems",
+        "High information clarity",
+        "Strong hierarchy",
+        "Minimal visual clutter",
+        "Human-centric design",
+        "No generic SaaS aesthetics",
+        "No excessive gradients",
+        "No glassmorphism",
+        "No neon AI clichés"
+      ],
+      "rasDifference": [
+        "More energetic",
+        "More editorial",
+        "More social-first",
+        "More expressive",
+        "More information-dense",
+        "More visually dynamic",
+        "More culturally connected to the internet"
+      ]
+    },
+    "visualConcept": {
+      "name": "Ink. Paper. Daybreak.",
+      "ink": "Information, intelligence, seriousness, depth, knowledge",
+      "paper": "Editorial credibility, reading, clarity, context, human communication",
+      "daybreak": "Optimism, discovery, new ideas, opportunity, progress, the future"
+    },
+    "visualKeywords": [
+      "Editorial",
+      "Modern",
+      "Intelligent",
+      "Clean",
+      "Bold",
+      "Warm",
+      "High-contrast",
+      "Structured",
+      "Human",
+      "Optimistic",
+      "Internet-native"
+    ]
+  },
+  "colors": {
+    "foundation": [
+      {
+        "name": "Midnight Ink",
+        "hex": "#151615",
+        "role": "Primary dark colour",
+        "usage": ["Dark backgrounds", "Headlines", "Logos", "Typography", "Video frames", "High-impact editorial layouts", "Navigation", "Major information blocks"],
+        "represents": "Intelligence · Seriousness · Information · Depth"
+      },
+      {
+        "name": "Daybreak Paper",
+        "hex": "#F4F0E6",
+        "role": "Primary light background",
+        "usage": ["Editorial backgrounds", "Social carousels", "Long-form content", "Website surfaces", "Presentation backgrounds", "Print collateral"],
+        "represents": "Clarity · Openness · Reading · Calm"
+      },
+      {
+        "name": "Soft Linen",
+        "hex": "#E8E3D9",
+        "role": "Secondary neutral",
+        "usage": ["Cards", "Information blocks", "Secondary surfaces", "Dividers", "Image frames", "Supporting UI"],
+        "represents": "Structure · Warmth · Subtle hierarchy"
+      }
+    ],
+    "signature": {
+      "name": "Daybreak Vermilion",
+      "hex": "#F25C3D",
+      "role": "Primary RAS signature colour — a signal, not a default",
+      "usage": ["Important headlines", "News markers", "CTAs", "Important numbers", "RAS signature elements", "Sunrise logo element", "Breaking/high-attention content", "Key visual highlights"],
+      "represents": "Energy · Urgency · Optimism · Movement · Sunrise",
+      "rule": "Do not cover every design in orange. Vermilion should feel like a signal."
+    },
+    "accents": [
+      {
+        "name": "Harvest Gold",
+        "hex": "#E2A72E",
+        "role": "Money and growth accent",
+        "usage": ["Funding", "Investments", "Acquisitions", "Opportunities", "Founder wins", "Growth stories", "Business milestones"],
+        "represents": "Growth · Money · Discovery · Opportunity"
+      },
+      {
+        "name": "Signal Teal",
+        "hex": "#2F7C74",
+        "role": "Intelligence and technology accent",
+        "usage": ["AI", "Research", "Technical explainers", "Data", "Deep dives", "Emerging technology"],
+        "represents": "Intelligence · Technology · Research · AI"
+      },
+      {
+        "name": "Fresh Lime",
+        "hex": "#C7E84A",
+        "role": "Emergence accent — use sparingly, never as a primary",
+        "usage": ["Emerging technology", "Experimental products", "Future trends", "Small highlights", "Data visualization", "Special campaigns"],
+        "represents": "Emergence · Experimentation · Future · Builder Culture"
+      }
+    ],
+    "hierarchy": {
+      "note": "Guidelines, not strict rules. Hierarchy matters more than exact ratios.",
+      "paperAndLinen": 60,
+      "midnightInk": 25,
+      "daybreakVermilion": 10,
+      "goldAndTeal": 3,
+      "freshLime": 2
+    },
+    "coreCombination": "Midnight Ink + Daybreak Paper + Daybreak Vermilion — the most recognisable RAS combination.",
+    "categoryWorlds": {
+      "NEWS": {
+        "palette": ["#151615", "#F4F0E6", "#F25C3D"],
+        "usage": ["Breaking news", "Major announcements", "Important ecosystem developments"]
+      },
+      "AI": {
+        "palette": ["#151615", "#F4F0E6", "#2F7C74"],
+        "usage": ["AI models", "AI companies", "Research", "AI products", "Technical developments"]
+      },
+      "MONEY": {
+        "palette": ["#151615", "#F4F0E6", "#E2A72E"],
+        "usage": ["Funding", "Investments", "Acquisitions", "VC activity", "Business movements"]
+      },
+      "OPPORTUNITY": {
+        "palette": ["#F25C3D", "#F4F0E6", "#151615"],
+        "usage": ["Grants", "Fellowships", "Accelerators", "Hackathons", "Jobs", "Programs", "Founder opportunities"]
+      },
+      "FUTURE": {
+        "palette": ["#151615", "#C7E84A", "#F4F0E6"],
+        "usage": ["Emerging technologies", "Future trends", "Experimental products", "New technology categories"]
+      }
+    },
+    "rules": {
+      "do": [
+        "Use colour to establish hierarchy",
+        "Keep most surfaces neutral",
+        "Use Vermilion as the recognisable RAS signal",
+        "Use category colours consistently",
+        "Maintain strong contrast",
+        "Let whitespace breathe",
+        "Use accent colours to highlight important information"
+      ],
+      "dont": [
+        "Use every accent colour in one composition",
+        "Create rainbow compositions",
+        "Use neon gradients by default",
+        "Use purple/cyan AI gradients",
+        "Use colour simply for decoration",
+        "Let accent colours compete with the headline",
+        "Introduce random colours without adding them to the brand system"
+      ]
+    }
+  },
+  "typography": {
+    "primary": {
+      "family": "Satoshi",
+      "rendererFallback": "Inter",
+      "rendererFallbackNote": "Satoshi is not openly licensed for vendoring; the Satori renderer substitutes Inter (same grotesque class, matched weights) via fontFamily: Inter. Set display/headline weights explicitly (700/800).",
+      "usage": ["Headlines", "Subheadings", "Body copy", "Metadata", "Labels", "Social graphics", "Website", "Video typography"],
+      "hierarchy": {
+        "display": "Black",
+        "headline": "Bold / Black",
+        "subheading": "Bold",
+        "body": "Regular",
+        "metadata": "Medium",
+        "labels": "Medium / Bold"
+      }
+    },
+    "editorial": {
+      "family": "Instrument Serif",
+      "rendererFamily": "Instrument Serif",
+      "rendererFile": "public/fonts/InstrumentSerif-Regular.woff",
+      "usage": ["Editorial statements", "Quotes", "Short emphasis", "Feature stories", "Cover-style headlines"],
+      "example": "THE AI RACE / is already moving.",
+      "dont": ["Dense body copy", "Navigation", "Metadata", "Technical information"]
+    },
+    "principles": [
+      "Large — headlines may dominate the composition",
+      "Tight — display type uses compact line-height",
+      "Short — use fewer words",
+      "Hierarchical — size and weight before additional colours",
+      "Editorial — composed, not a software dashboard"
+    ],
+    "avoid": [
+      "Too many font families",
+      "Decorative fonts",
+      "Excessively tight body copy",
+      "Tiny unreadable text",
+      "Excessive all-caps",
+      "Artificial luxury-style letter spacing",
+      "Random typography treatments"
+    ]
+  },
+  "logos": {
+    "concept": "Custom geometric RAS wordmark; the central A incorporates a rising sunrise (Rise + Horizon + Daybreak). Standalone symbol = Geometric Rising-A + Sunrise.",
+    "sunriseNote": "Sampled from production assets: warm sunrise gradient from gold (#FDA635) through Daybreak Vermilion (#F25C3D) to deep orange (#FB5104), nested in the A's counter.",
+    "files": [
+      {
+        "path": "public/RAS-by-keilhq/ras-by-keilhq-light-mode.png",
+        "size": [500, 250],
+        "transparent": true,
+        "kind": "full lockup for light backgrounds",
+        "artwork": "Midnight Ink RAS wordmark + sunrise + by KeilHQ",
+        "usage": ["Light editorial backgrounds", "Daybreak Paper surfaces", "Social graphics (light)", "Website headers (light)"],
+        "loadWith": "loadImage(\"../public/RAS-by-keilhq/ras-by-keilhq-light-mode.png\", file)"
+      },
+      {
+        "path": "public/RAS-by-keilhq/ras-by-keilhq-dark-mode.png",
+        "size": [500, 250],
+        "transparent": true,
+        "kind": "full lockup for dark backgrounds",
+        "artwork": "Warm-white RAS wordmark + sunrise + by KeilHQ",
+        "usage": ["Midnight Ink backgrounds", "Dark editorial layouts", "Video frames", "Social graphics (dark)"],
+        "loadWith": "loadImage(\"../public/RAS-by-keilhq/ras-by-keilhq-dark-mode.png\", file)"
+      },
+      {
+        "path": "public/RAS-by-keilhq/ras-by-keilhq-logo-light.png",
+        "size": [160, 124],
+        "transparent": true,
+        "kind": "standalone symbol for light backgrounds",
+        "artwork": "Midnight Ink Rising-A + sunrise",
+        "usage": ["Social avatars", "Favicons", "Watermarks", "Small-scale placements", "Content markers"]
+      },
+      {
+        "path": "public/RAS-by-keilhq/ras-by-keilhq-logo-dark.png",
+        "size": [160, 160],
+        "transparent": true,
+        "kind": "standalone symbol for dark backgrounds",
+        "artwork": "Warm-white Rising-A + sunrise",
+        "usage": ["Social avatars (dark)", "Video watermarks", "App icons", "Stickers", "Merchandise marks"]
+      }
+    ],
+    "lockups": {
+      "full": "RAS / RISE & SHINE / by KeilHQ — brand pages, launch material, presentations, website, brand announcements",
+      "wordmark": "RAS — social posts, headers, video intros, watermarks, editorial graphics",
+      "symbol": "Geometric A + Sunrise — profile pictures, favicons, small placements, watermarks, app-style icons"
+    },
+    "rules": {
+      "do": [
+        "Preserve original proportions",
+        "Maintain clear space",
+        "Use approved light/dark variants",
+        "Keep the sunrise element intact",
+        "Use the standalone symbol at small sizes"
+      ],
+      "dont": [
+        "Stretch the logo",
+        "Rotate the logo",
+        "Change the logo proportions",
+        "Add unnecessary shadows",
+        "Add glow to the full wordmark",
+        "Change the sunrise colour arbitrarily",
+        "Add random gradients to the letterforms",
+        "Place the logo on noisy imagery without a clear container"
+      ]
+    }
+  },
+  "layout": {
+    "aesthetic": "Premium editorial publication × modern internet × technology culture — contemporary, never generic-AI-startup",
+    "system": [
+      "Editorial grid",
+      "2-column and 3-column compositions",
+      "Strong margins",
+      "Asymmetric layouts",
+      "Large whitespace",
+      "Clear information blocks",
+      "Strong alignment",
+      "Deliberate negative space"
+    ],
+    "typographyAsGraphics": "Typography may be the main visual element (e.g. 3 THINGS FOUNDERS NEED TO KNOW).",
+    "avoidDashboard": "Structure without feeling like an enterprise dashboard."
+  },
+  "guidelines": {
+    "do": [
+      "Lead every story with Signal + Context + Relevance",
+      "Answer: what happened, why it matters, who should care",
+      "Keep the Ink + Paper + Vermilion combination recognisable",
+      "One category accent per composition",
+      "Let headlines dominate; hierarchy via size and weight",
+      "Use the correct logo variant for the background"
+    ],
+    "dont": [
+      "Behave like a generic news aggregator or PR channel",
+      "Publish hype, clickbait, or motivational filler",
+      "Cover every design in Vermilion",
+      "Mix category worlds in one composition",
+      "Use purple/cyan AI gradients, glassmorphism, or neon clichés",
+      "Set dense body copy in Instrument Serif",
+      "Alter the logo geometry or sunrise colour"
+    ]
+  },
+  "renderer": {
+    "themeSuggestion": "New designs should add a ras theme mapping these tokens (paper background, ink foreground, vermilion signal, per-category accent).",
+    "fonts": { "sans": "Inter", "serif": "Instrument Serif", "mono": "IBM Plex Mono" },
+    "logoUsage": "Inline the transparent PNGs via loadImage() with explicit width/height; pick light/dark variant by background."
+  },
+  "metadata": {
+    "version": "1.0.0",
+    "updated": "2026-09-27",
+    "source": "Rise & Shine (RAS) — Brand Guidelines by KeilHQ",
+    "assetsVerified": "2026-09-27 (transparent RGBA, ink ~#0E0E10, cream ~#FBF9F3, sunrise gold→vermilion→deep-orange)"
+  }
+}
