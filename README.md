@@ -119,6 +119,7 @@ npm run validate file.tsx                                # static + trial-render
 | `editorial-news-carousel` | White tech-news explainer carousels (mono eyebrow, claim headline, diagram figure, locked footer) |
 | `educational-carousel` | Teaching carousels with frameworks |
 | `brand-system` | Applying a `brand.json` consistently |
+| `ras-story` | Rise & Shine (RAS) by KeilHQ photo-led editorial story posts (hero scrims, serif headline, deck highlight, 3-metric strip, pull quote, locked footer) |
 
 ## Creating custom skills / templates
 
